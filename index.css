@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('5230868.jpg');
+  background-repeat: no-repeat;
+}
+
+main{
+  margin-top: 100px;
+}
