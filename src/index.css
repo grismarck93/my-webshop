@@ -4,7 +4,8 @@
 }
 
 body {
-  background-image: url("comp.jpg");
+  background-image: url('5230868.jpg');
+  background-repeat: no-repeat;
 }
 
 main{
